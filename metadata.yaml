@@ -1,4 +1,8 @@
 _repo: The-Glorious-Return-A-Story-of-the-Vaudois-in-1698_50122
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50122-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Corfield, Clara Lavinia
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '45716'
     url: http://www.gutenberg.org/2009/agents/45716
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50122#The-Glorious-Return-A-Story-of-the-Vaudois-in-1698
 gutenberg_issued: '2015-10-03'
 gutenberg_type: Text
 identifiers:
